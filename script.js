@@ -3,7 +3,7 @@ const hoursEl = document.getElementById("hours");
 const minEl  = document.getElementById("min");
 const secondEl= document.getElementById("second");
 
-const newYears = "1 Jan 2022";
+const newYears = "1 Jan 2023";
 
 
 
